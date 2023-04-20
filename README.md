@@ -75,10 +75,10 @@ xnor (y7,a,b);
 endmodule 
 ```
 # Logic symbol & Truthtable:
-![image](https://user-images.githubusercontent.com/98278161/233004036-9adb321e-5bc8-4103-8be0-ba8fc6a693af.png)
+![image](https://user-images.githubusercontent.com/98278161/233403783-fd829480-a1b7-4090-96f6-c90886d1a726.png)
 
 # Output:
-RTL
+
 ![image](https://user-images.githubusercontent.com/98278161/233004108-118602aa-956f-4ebb-8a13-e882471d5073.png)
 
 
